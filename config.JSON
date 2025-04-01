@@ -1,0 +1,12 @@
+{
+  "DisplaySteps": true,
+  "DisplayLuck": true,
+  "DisplayIslandWeather": true,
+  "HorizontalOffset": 0,
+  "VerticalOffset": 0,
+  "TargetLuck": -1.0,
+  "TargetGifter": "",
+  "TargetDish": "Pepper Poppers",
+  "TargetDishAmount": 0,
+  "TargetStepsLimit": 1000
+}
